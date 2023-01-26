@@ -1,7 +1,7 @@
 title = "St Antony's Priory London"
 baseURL = "https://SpeeddY.github.io/stantonyspriory/"
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "anake"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
