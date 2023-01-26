@@ -1,5 +1,5 @@
 title = "St Antony's Priory London"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://SpeeddY.github.io/stantonyspriory/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
